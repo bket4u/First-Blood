@@ -1,0 +1,8 @@
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\bin\Debug\BlankAcountTests.dll
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\bin\Debug\BlankAcountTests.pdb
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\bin\Debug\BlankAcount.exe
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\bin\Debug\BlankAcount.pdb
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\obj\Debug\BlankAcountTests.csprojResolveAssemblyReference.cache
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\obj\Debug\BlankAcountTests.dll
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcountTests\obj\Debug\BlankAcountTests.pdb

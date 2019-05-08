@@ -1,0 +1,6 @@
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\bin\Debug\BlankAcount.exe.config
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\bin\Debug\BlankAcount.exe
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\bin\Debug\BlankAcount.pdb
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\obj\Debug\BlankAcount.csprojResolveAssemblyReference.cache
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\obj\Debug\BlankAcount.exe
+c:\users\tiep\documents\visual studio 2015\Projects\BlankAcount\BlankAcount\obj\Debug\BlankAcount.pdb

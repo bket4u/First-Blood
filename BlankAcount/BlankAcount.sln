@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankAcount", "BlankAcount\BlankAcount.csproj", "{0F281CB8-E6C2-40E1-85AF-F10AE38FA8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankAcountTests", "BlankAcountTests\BlankAcountTests.csproj", "{89E730DF-E434-47FA-BFBD-5E77258EE8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F281CB8-E6C2-40E1-85AF-F10AE38FA8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F281CB8-E6C2-40E1-85AF-F10AE38FA8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F281CB8-E6C2-40E1-85AF-F10AE38FA8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F281CB8-E6C2-40E1-85AF-F10AE38FA8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E730DF-E434-47FA-BFBD-5E77258EE8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E730DF-E434-47FA-BFBD-5E77258EE8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E730DF-E434-47FA-BFBD-5E77258EE8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E730DF-E434-47FA-BFBD-5E77258EE8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
